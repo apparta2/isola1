@@ -1323,6 +1323,7 @@ body {
 }
 .cid-qyu57uAh74 P {
   color: #f7ed4a;
+  text-align: right;
 }
 .cid-qyu5b8ZCJw {
   padding-top: 90px;
@@ -2078,9 +2079,4 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-qyMA9ke7Hw {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
 }
